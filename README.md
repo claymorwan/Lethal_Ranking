@@ -1,10 +1,25 @@
 # Lethal Ranking
--A simple client Lethal company mod which allows you to see your current level and rank in the pause menu !
-As of right now, the mod only displays your current XP, but in the future, I plan on displaying your current rank and it's icon as well !
-This is my very first mod, if you find any bugs, please report them here or in the mod's thread in the unofficial Lethal company modding discord server (and if you know how to fix them, tell me because I'm very much a beguinner at modding).
+- A simple client Lethal company mod which allows you to see your current level and rank in the pause menu :3
+- As of right now, the mod only displays your current XP, but in the future, I plan on displaying your current rank and it's icon as well !
+> [!IMPORTANT]
+> This is my very first mod, if you find any bugs, please report them here or in the mod's thread in the unofficial Lethal company modding discord server (and if you know how to fix them, tell me because I'm very much a beguinner at modding).
 ## Screenshot 
 ![ModScreenshot](https://github.com/claymorwan/Lethal_Ranking/assets/86072589/39e8d69c-f9e3-4ff7-abff-0f5dbf62bdee)
+## Completion
+- [x] Display XP and XP bar
+- [ ] Display Rank
+- [ ] Display rank's sprite
+## Incompability
+- Lethal Progression (unsure)
+- if you find any other incompability, please notify me
 ## Credits
-MrMiinxx for his [Lethal company modding video](https://www.youtube.com/watch?v=4Q7Zp5K2ywI) which helped me a lot 
-Stoneman for his [Lethal Progression](https://github.com/stoneman2/LethalProgression) mod that I used to learn how to make this mod
-The [Lethal Company modding discord server](https://discord.gg/gJm5EH93).
+- MrMiinxx for his [Lethal company modding video](https://www.youtube.com/watch?v=4Q7Zp5K2ywI) which helped me a lot 
+- Stoneman for his [Lethal Progression](https://github.com/stoneman2/LethalProgression) mod that I used to learn how to make this mod
+- The [Lethal Company modding discord server](https://discord.gg/gJm5EH93).
+## Installation 
+-  Install BepInEx 5.4.21 on [Thunderstore](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/) or on [GitHub](https://github.com/BepInEx/BepInEx)
+- Unzip your file in your game root directory (aka game file where the exe is)
+- Download the mod
+- Unzip it in your plugin folder `Lethal Company\BepInEx\plugins`
+
+- You can also use r2modman or the Thunderstore mod manager
