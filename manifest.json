@@ -1,6 +1,6 @@
 {
     "name": "Lethal_Ranking",
-    "version_number": "0.0.5",
+    "version_number": "0.6.0",
     "website_url": "https://github.com/claymorwan/Lethal_Ranking",
     "description": "A simple client Lethal company mod which allows you to see your current level and rank in the pause menu :3",
     "dependencies": [
