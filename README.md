@@ -3,7 +3,7 @@
 > [!IMPORTANT]
 > This is my very first mod, if you find any bugs, please report them here or in the mod's thread in the unofficial Lethal company modding discord server (and if you know how to fix them, tell me because I'm very much a beguinner at modding).
 ## Screenshot 
-![ModScreenshot](https://github.com/claymorwan/Lethal_Ranking/assets/86072589/39e8d69c-f9e3-4ff7-abff-0f5dbf62bdee)
+![screenshotmod](https://github.com/claymorwan/Lethal_Ranking/assets/86072589/1146c369-a037-4c99-9881-6638836403ac)
 ## Completion
 - [x] Display XP
 - [ ] Display XP bar progession
