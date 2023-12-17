@@ -1,13 +1,13 @@
 # Lethal Ranking
 - A simple client Lethal company mod which allows you to see your current level and rank in the pause menu :3
-- As of right now, the mod only displays your current XP, but in the future, I plan on displaying your current rank and it's icon as well !
 > [!IMPORTANT]
 > This is my very first mod, if you find any bugs, please report them here or in the mod's thread in the unofficial Lethal company modding discord server (and if you know how to fix them, tell me because I'm very much a beguinner at modding).
 ## Screenshot 
 ![ModScreenshot](https://github.com/claymorwan/Lethal_Ranking/assets/86072589/39e8d69c-f9e3-4ff7-abff-0f5dbf62bdee)
 ## Completion
-- [x] Display XP and XP bar
-- [ ] Display Rank
+- [x] Display XP
+- [ ] Display XP bar progession
+- [x] Display rank
 - [ ] Display rank's sprite
 ## Incompability
 - Lethal Progression (unsure)
