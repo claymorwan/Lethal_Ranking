@@ -15,7 +15,7 @@ namespace Lethal_Ranking
     {
         private const string modGUID = "claymor_wan.Lethal_Ranking";
         private const string modName = "Lethal Ranking";
-        private const string modVersion = "0.6.0";
+        private const string modVersion = "0.6.5";
         private const string modAuthor = "claymor_wan";
         private readonly Harmony harmony = new Harmony(modGUID);
         private static Lethal_Ranking_Base Instance;
